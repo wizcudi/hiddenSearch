@@ -57,11 +57,11 @@ h1{
 }
 
 .search.active .input{
-    width: 270px;
+    width: 200px;
 }
 
 .search.active .btn{
-    transform: translateX(268px);
+    transform: translateX(198px);
 }
 
 
